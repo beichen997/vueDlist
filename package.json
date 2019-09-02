@@ -1,8 +1,8 @@
 {
-  "name": "vue_cli_2.0_router",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "fuzhq <fuzhengquan@congine.cn>",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
